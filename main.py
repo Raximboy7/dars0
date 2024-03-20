@@ -3,3 +3,4 @@ def Daraja(x: int, y: int):
 
 print(Daraja(123,123))
 
+print(Daraja(12,13))
